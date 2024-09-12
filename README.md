@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **pcoopercoder/pcoopercoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About
+
+I have led studies involving online hate speech detection, AI-optimized case selection to support ethical content moderation, and adversarial text-to-image prompt mitigation. My research was published in Findings of the Association for Computational Linguistics: EMNLP 2023, and I was recently selected as a 2024 Goldwater Scholar.
+
+Contact me at portiacooper@arizona.edu
+
+## Publication
+
+Portia Cooper, Mihai Surdeanu, and Eduardo Blanco. 2023. Hiding in Plain Sight: Tweets with Hate Speech Masked by Homoglyphs. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2922–2929, Singapore. Association for Computational Linguistics.
