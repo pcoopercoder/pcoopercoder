@@ -20,7 +20,7 @@ I am a year-round Research & Development Intern with the Machine Intelligence an
 
 ## Selected Publications
 The Lies Characters Tell: Utilizing Large Language Models to Normalize Adversarial Unicode Perturbations
-Portia Cooper, Eduardo Blanco, and Mihai Surdeanu. Findings of the Association for Computational Linguistics: ACL 2025. pp. 18932-18944. [Read paper](https://aclanthology.org/2025.findings-acl.969/)
+Portia Cooper, Eduardo Blanco, and Mihai Surdeanu. **Findings of the Association for Computational Linguistics: ACL 2025**. pp. 18932-18944. [Read paper](https://aclanthology.org/2025.findings-acl.969/)
 
 Hiding in Plain Sight: Tweets with Hate Speech Masked by Homoglyphs
-Portia Cooper, Mihai Surdeanu, and Eduardo Blanco. Findings of the Association for Computational Linguistics: EMNLP 2023. pp. 2922-2929. [Read paper](https://aclanthology.org/2023.findings-emnlp.192/)
+Portia Cooper, Mihai Surdeanu, and Eduardo Blanco. **Findings of the Association for Computational Linguistics: EMNLP 2023**. pp. 2922-2929. [Read paper](https://aclanthology.org/2023.findings-emnlp.192/)
