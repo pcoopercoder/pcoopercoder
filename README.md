@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## About
 
-I have led studies involving online hate speech detection, AI-optimized case selection to support ethical content moderation, and adversarial text-to-image prompt mitigation. My research was published in Findings of the Association for Computational Linguistics: EMNLP 2023, and I was recently selected as a 2024 Goldwater Scholar.
+I am a year-round Research & Development Intern with the Machine Intelligence and Visualization Group at Sandia National Laboratories and an M.S. student in the Computational Language Understanding Lab at the University of Arizona. My research interests lie at the intersection of model robustness, security, and transparency with a focus on building NLP systems resilient to adversarial attacks. I have led studies investigating Unicode perturbation detection, text normalization, AI-optimized case selection for content moderation, and malicious text-to-image prompt mitigation. My work reflects a deep-rooted enthusiasm for creating safer, more trustworthy AI systems.
 
-Contact me at portiacooper@arizona.edu
+## Selected Publications
+The Lies Characters Tell: Utilizing Large Language Models to Normalize Adversarial Unicode Perturbations
+Portia Cooper, Eduardo Blanco, and Mihai Surdeanu. Findings of the Association for Computational Linguistics: ACL 2025. pp. 18932-18944. [Read paper](https://aclanthology.org/2025.findings-acl.969/)
 
-## Publication
-
-Portia Cooper, Mihai Surdeanu, and Eduardo Blanco. 2023. Hiding in Plain Sight: Tweets with Hate Speech Masked by Homoglyphs. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2922–2929, Singapore. Association for Computational Linguistics.
+Portia Cooper, Mihai Surdeanu, and Eduardo Blanco. 2023. Hiding in Plain Sight: Tweets with Hate Speech Masked by Homoglyphs. In Findings of the Association for Computational Linguistics: EMNLP 2023, pp. 2922–2929, Singapore. Association for Computational Linguistics. [Read paper](https://aclanthology.org/2023.findings-emnlp.192/)
